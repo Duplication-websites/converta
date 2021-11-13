@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Nov 2021 20:05:14 at https://www.convertworld.com/pt/
+(winhttrack https://www.convertworld.com/pt/ -O "website/convertworld" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:38:50	Warning: 	Found for https://www.convertworld.com/pt/definicoes/
+20:38:50	Warning: 	File has moved from https://www.convertworld.com/pt/definicoes/ to https://www.convertworld.com/pt/
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 48 seconds : 2967 links scanned, 2965 files written (351892266 bytes overall) [65423036 bytes received at 28102 bytes/sec], 351892266 bytes transferred using HTTP compression in 2965 files, ratio 18%, 66.1 requests per connection
+(No errors, 2 warnings, 0 messages)

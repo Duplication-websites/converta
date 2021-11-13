@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.convertworld.com	TRUE	/	FALSE	1999999999	PHPSESSID	0dgbdkd369nlod6p824kini406
+www.convertworld.com	TRUE	/	FALSE	1999999999	lang	pt
+
